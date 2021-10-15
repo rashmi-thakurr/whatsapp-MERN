@@ -18,7 +18,7 @@ function App() {
   },[])
 
   useEffect(() => {
-    const pusher = new Pusher('cb7aba5b078c58589e1c', {
+    const pusher = new Pusher(#####, {
       cluster: 'ap2'
     });
 
